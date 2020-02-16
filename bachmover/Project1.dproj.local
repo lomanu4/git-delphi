@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.404,=D:\Devolper\bachmover\ModelSupport_Project1\Project1\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.503,=D:\Devolper\bachmover\ModelSupport_Project1\Project1\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.106,C:\Users\mapum\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\Devolper\bachmover\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,C:\Users\mapum\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Devolper\bachmover\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.106,C:\Users\mapum\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Devolper\bachmover\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.288,=C:\Users\mapum\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.831,=C:\Users\mapum\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,=D:\Devolper\bachmover\ModelSupport_Project1\default.txaPackage</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
